@@ -21,6 +21,7 @@ This classification is based on average performance of an individual player coll
   * **space-wars-extended.py :** main source code
   * **addition.py :** addition to the main source code
   * **player.py :** publishing a player move and subscribing a player type
+  * **images/coin.png :** coin image
 
 ### Server
 
@@ -28,7 +29,7 @@ This classification is based on average performance of an individual player coll
   * **message.py :** extracting the received message from a player and storing a record in JSON format
   * **classify.py :** classifier
 
-### Server Logs
+### Server Logs (Not Included)
 
   * **log-record.json :** collecting information on a player move in every second
   * **log-player-detailed.json :** collecting all player types
