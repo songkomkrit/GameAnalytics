@@ -20,12 +20,12 @@ This classification is based on average performance of an individual player coll
 
   * **space-wars-extended.py :** main source code
   * **addition.py :** addition to the main source code
-  * **player.py :** publishing move and subscribing type
+  * **player.py :** publishing a player move and subscribing a player type
 
 ### Server
 
-  * **server.py :** main source code (subscribing player move and publishing player type)
-  * **message.py :** extracting received message from player and storing record in JSON format
+  * **server.py :** main source code (subscribing a player move and publishing a player type)
+  * **message.py :** extracting the received message from a player and storing a record in JSON format
   * **classify.py :** classifier
 
 ### Server Logs
