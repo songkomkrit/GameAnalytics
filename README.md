@@ -4,7 +4,7 @@
 ## Description
 This is a class project. It extends the exisiting codes on SpaceWars game originally written by Dan Petersson. Please visit <https://github.com/DanPetersson/SpaceWars> for futher details.
 
-A player name must be entered before the game starts. A player receives a coin when earning additional five scores. His/her type is known right after finishing each game. A game ends when it is over or when a player accidentally quit the program. In this project, four player types (Baffa, Bicalho, & Feijo, 2019) are available:
+A player name must be entered before the game starts. A player receives a coin when earning additional five scores. His/her type is known right after finishing each game. A game ends when it is over or when a player accidentally quits the program. In this project, four player types (Baffa, Bicalho, & Feijo, 2019) are available:
 
   1. hardcore achiever,
   2. hardcore killer,
