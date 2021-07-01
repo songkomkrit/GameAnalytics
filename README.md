@@ -2,7 +2,7 @@
 
 
 ## Description
-This is a class project. It extends the exisiting codes on SpaceWars game originally written by Dan Petersson. Please visit <https://github.com/DanPetersson/SpaceWars> for futher details.
+This is a class project. It extends the SpaceWars game source code originally written by Dan Petersson. Please visit <https://github.com/DanPetersson/SpaceWars> for futher details.
 
 A player name must be entered before the game starts. A player receives a coin when earning additional five scores. His/her type is known right after finishing each game. A game ends when it is over or when a player accidentally quits the program. In this project, four player types (Baffa, Bicalho, & Feijo, 2019) are available:
 
@@ -20,7 +20,7 @@ Notepad++ (visit <https://notepad-plus-plus.org>) is a recommended code editor. 
 
 ### Player
 
-  * **space-wars-extended.py :** main source code
+  * **space-wars-extended.py :** main source code (Petersson's file *space_wars.py* with extension)
   * **addition.py :** addition to the main source code
   * **player.py :** publishing a player move and subscribing a player type
   * **/images/coin.png :** coin image
