@@ -37,4 +37,4 @@ This classification is based on average performance of an individual player coll
 
 ## Reference
 
-Bicalho, L. F., Baffa, A., & Feijó, B. (2019, October). A game analytics model to identify player profiles in singleplayer games. In *2019 18th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)* (pp. 11-20). IEEE.
+Bicalho, L. F., Baffa, A., & Feijó, B. (2019, October). A game analytics model to identify player profiles in singleplayer games. In *2019 18th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)* (pp. 11-20). IEEE. DOI: <10.1109/SBGames.2019.00013>
