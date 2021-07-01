@@ -33,9 +33,9 @@ Notepad++ (visit <https://notepad-plus-plus.org>) is a recommended code editor. 
 
 ### Server Logs (Not Included)
 
-  * **log-record.json :** relevant information on a player move per second
-  * **log-player-detailed.json :** all player types across all games
-  * **log-player-updated.json :** a recent player type
+  * **log-record.json :** relevant information on moves per second made by each player
+  * **log-player-detailed.json :** player types across all games played by each player
+  * **log-player-updated.json :** player type of the most recent game for each player
 
 
 ## Reference
