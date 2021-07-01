@@ -33,7 +33,7 @@ Notepad++ (visit <https://notepad-plus-plus.org>) is a recommended code editor. 
 
 ### Server Logs (Not Included)
 
-  * **log-record.json :** collecting information on a player move in every second
+  * **log-record.json :** collecting information on a player move every second
   * **log-player-detailed.json :** collecting all player types
   * **log-player-updated.json :** collecting a recent player type
 
