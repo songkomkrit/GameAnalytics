@@ -11,7 +11,7 @@ A player name must be entered before the game starts. A player receives a coin w
   3. casual achiever, and
   4. casual killer.
 
-This classification is based on average performance of an individual player collected in a server log. NETPIE (Network Platform for Internet of Everything) is used as a cloud platform. The *microgear* package is required. Please visit <https://netpie.io> for more information.
+This classification is based on average performance of an individual player in comparison to the rest of game players collected in a server log. NETPIE (Network Platform for Internet of Everything) is used as a cloud platform. The *microgear* package is required. Please visit <https://netpie.io> for more information.
 
 Notepad++ (visit <https://notepad-plus-plus.org>) is a recommended code editor. It can also be used to create and view a JSON file.
 
