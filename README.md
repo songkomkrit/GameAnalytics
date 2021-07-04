@@ -15,7 +15,7 @@ This classification is based on average performance of an individual player in c
 
 Notepad++ (visit <https://notepad-plus-plus.org>) is a recommended code editor. It can also be used to create and view a JSON file.
 
-If there are any mistakes, please contact me at songkomkrit.c@gmail.com.
+If there are any mistakes, please contact me at schaiyakan@gmail.com.
 
 
 ## Components
