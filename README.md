@@ -25,7 +25,7 @@ If there are any mistakes, please contact me at schaiyakan@gmail.com.
   * **space-wars-extended.py :** main source code (Petersson's file *space_wars.py* with extension)
   * **addition.py :** addition to the main source code
   * **player.py :** publishing a player move and subscribing a player type
-  * **/images/coin.png :** coin image
+  * **images/coin.png :** coin image
 
 ### Server
 
